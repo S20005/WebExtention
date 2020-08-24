@@ -1,0 +1,139 @@
+@charset"utf-8";
+
+h1.main {
+	padding: 10px;	
+	font-size: 40px;
+	color: #ffffff;
+	background: #ff4500;
+	text-align: center;
+}
+h2.main {
+	padding: 10px;
+	margin: 10px 10px ;
+	background: #ff4500;
+	text-align: center;
+}
+li.main {
+	padding: 5px;
+	margin-top: 40px;
+	color: #ff4500;
+}
+div.main {
+	margin-bottom: 100px; 
+}	
+h1.sc1 { 
+	padding: 1em;
+	font-size: 40px;
+	color: #ffffff;
+	background: #00ccff;
+	text-align: center;
+}
+h2.sc2 {
+	padding: 12px;
+	margin: 10px;
+	border: 5px solid #ff6600;
+	text-align: center;
+}
+section.sc2_1 {
+	padding: 10px;
+	margin: 10px;
+}
+h3.sc3 {
+	font-size: 20px;
+	padding: 10px 8px 1px;
+	margin: 10px;	
+}
+ul.sc4 {
+	padding: 0px 8px 20px; 
+	margin: 0px;
+	border: 2px solid  #ff6600;
+	width: 260px;
+	height: 100px;
+}	
+section.sc4_1 {
+	border: 1px solid;
+	padding: 8px;
+	margin: 10px;
+	width: 400px;
+	height: 380px;
+}
+section.sc4_2 {
+	border: 1px solid;
+	padding: 8px;
+	margin: 10px;
+	width: 400px;
+	height:380px;
+}
+div.sc10_1 {
+	border: 1px solid #ff3300;
+	padding: 5px 10px;
+	margin: 10px;
+}
+p.sc10 {
+	margin: 1px 0px 10px 100px;
+	
+}
+h3.sc11 {
+	background: #ff3300;
+	margin: 0px 10px 10px 50px;
+	padding: 10px;
+	width: 270px;
+}
+h1.it1 {
+	padding: 1em;
+	font-size: 40px;
+	color: #ffffff;
+	background: #000080;
+	text-align: center;
+}
+section.it2 {
+	padding: 10px;
+	margin: 10px;
+}
+h2.it3 {
+	padding: 12px;
+	margin: 10px;
+	border: 5px solid #ff6600;
+	text-align: center;
+}
+h3.it4 {
+	font-size: 20px;
+	padding:10px 8px 1px;
+	margin: 10px;
+}
+ul.it5_1 {
+	padding: 5px;
+	margin: 0px 8px 20px;
+	border: 2px solid #ff6600;
+	width: 260px;
+	height: 140px;
+}
+ul.it5_2 {
+	padding: 5px;
+	margin: 0px 8px 30px;
+	border: 2px solid #ff6600;
+	width: 260px;
+	height: 190px;
+}
+section.it6 {
+	border: 1px solid;
+	padding: 8px;
+	margin: 10px;
+	width: 400px;
+	height: 380px;
+}
+div.it10 {
+	border: 1px solid #ff3300;
+	padding: 5px 10px;
+	margin: 10px;
+}
+p.it11 {
+	margin: 1px 0px 10px 50px;
+}
+h3.it12 {
+	background: #ff3300;
+	margin: 5px 10px;
+	padding: 10px;
+	width: 270px;
+}
+
